@@ -1,8 +1,9 @@
 # PROYECTO ESTRATEGIA DE PRICING BASADA EN EL VALOR
 
-## Objetivo del proyecto
+## 1- Objetivo del proyecto
 
-Actualmente, las empresas utilizan un enfoque de "Cost-Plus Pricing" (basado en costos), donde el precio se define sumando un margen fijo al costo de producción. Esta metodología ignora las dinámicas del mercado, la disposición a pagar del cliente y los beneficios diferenciales de nuestros productos frente a la competencia.
+Actualmente, las empresas utilizan un enfoque de "Cost-Plus Pricing" (basado en costos), donde el precio se define sumando un margen fijo al costo de producción. Esta metodología ignora las dinámicas del mercado, la disposición a pagar del cliente y los beneficios diferenciales de nuestros productos frente a la competencia. 
+Elobjetivo del proyecto es diseñar e implementar una estrategia de pricing basada en el valor para el portafolio de un producto o servicio, con el fin de optimizar la captura de valor y aumentar el margen de contribución de la compañia.
 
 Problema a Resolver
 
@@ -12,16 +13,14 @@ Existe una desconexión entre el precio de venta y el valor percibido por los cl
 
 2. Falta de competitividad: En productos donde el costo es alto pero el valor percibido es bajo, perdemos volumen de ventas frente a competidores más ágiles.
 
-Objetivo del Proyecto
-
-Diseñar e implementar una estrategia de pricing basada en el valor para el portafolio de un producto o servicio, con el fin de optimizar la captura de valor y aumentar el margen de contribución de la compañia.
 
 <img width="1465" height="733" alt="image" src="https://github.com/user-attachments/assets/b4aede65-0204-487f-a59e-1f81170a262e" />
 
 
-## ESTRATEGIA DE PRICING BASADA EN EL VALOR
+## 2- Estrategia de pricing basada en el valor
 
-Paso 1:  Investigación dee los competidores
+Paso 1:  Investigación de los competidores
+Investigar el servicio que prestan nuestros clientes, sus segmentos y el valor que cobran.
 
 Paso 2:  Investigación del Cliente
 Comprender las necesidades, preferencias y problemas de  los clientes potenciales. Descubren que sus clientes valoran enormemente la capacidad de reducir los errores humanos, aumentar la eficiencia operativa y obtener datos en tiempo real para la toma de decisiones.
@@ -40,6 +39,10 @@ Demostraciones del software que muestran cómo las características específicas
 Paso 6: Evaluación y Ajustes del pricing
 Recopilar feedback y analiza las métricas de ventas. Ajustan los precios y las características de los paquetes según las respuestas del mercado y la evolución del valor percibido. (Elasticidad precio y demanda)
 
+
+## 3- Conclusiones / Productivizacion
+
+Se elabora un app en streamlit que empaqueta los pasos para la optencion del pricing basado en el valor del mercado (competidores y clientes) y genera un mapa de valor que nos permite visualizar en que lugar del mercado se encuentra nuestra oferta de precio elaborada.
 
 
 
