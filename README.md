@@ -3,7 +3,7 @@
 
 ## 🎯 1. Objetivo
 Actualmente, las empresas utilizan un enfoque de "Cost-Plus Pricing" (basado en costos), donde el precio se define sumando un margen fijo al costo de producción. Esta metodología ignora las dinámicas del mercado, la disposición a pagar del cliente y los beneficios diferenciales de nuestros productos frente a la competencia. 
-Elobjetivo del proyecto es diseñar e implementar una estrategia de pricing basada en el valor para el portafolio de un producto o servicio, con el fin de optimizar la captura de valor y aumentar el margen de contribución de la compañia.
+El objetivo del proyecto es diseñar e implementar una estrategia de pricing basada en el valor para el portafolio de un producto o servicio, con el fin de optimizar la captura de valor y aumentar el margen de contribución de la compañia.
 
 ### ⚠️ Problema a resolver
 Existe una desconexión entre el precio de venta y el valor percibido por los clientes, lo que genera dos escenarios críticos:
